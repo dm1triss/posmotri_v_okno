@@ -75,6 +75,7 @@ ol {
   font-weight: 400;
   font-size: 18px;
   color: #fff;
+  margin-bottom: 2px;
 }
 .search-form__label {
   font-family: "Fira Sans Condensed", sans-serif;
